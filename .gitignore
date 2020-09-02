@@ -1,5 +1,6 @@
-# shesan's local ignores
+# Shesan's local ignores
 /data
 /OneShot_Model
 
-# abhis' ignores
+# Abhi's ignores
+.vscode
