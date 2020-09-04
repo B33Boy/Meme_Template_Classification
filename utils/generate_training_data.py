@@ -15,3 +15,18 @@
         - path does not exist
 
 '''
+
+import os
+# create the main folder structure
+
+def create_folder_strucuture():
+    try:
+        os.makedirs('update_data/training')
+        os.makedirs('update_data/testing')
+    except:
+        raise FileExistsError
+
+def read_original_json_data(path):
+
+
+create_folder_strucuture()
