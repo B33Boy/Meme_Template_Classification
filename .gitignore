@@ -1,6 +1,7 @@
-# shesan's local ignores
+# Shesan's local ignores
 /data
 /OneShot_Model
 .ipynb_checkpoints
 
-# abhis' ignores
+# Abhi's ignores
+.vscode
