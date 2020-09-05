@@ -2,6 +2,7 @@
 /data
 /OneShot_Model
 .ipynb_checkpoints
+/processedData
 
 # Abhi's ignores
 .vscode
